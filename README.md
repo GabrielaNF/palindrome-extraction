@@ -24,5 +24,5 @@ Por exemplo, a string "bcdddaaadddadabba" resultaria em: bc | dddaaaddd | ad | a
 
 #Contribuidores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Gabriela Nazario Fonseca</sub>](https://github.com/GabrielaNF) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img loading="lazy" src="C:\Users\Gabriela\Desktop\OneDrive\Imagens\perfil.jpg" width=115><br><sub>Gabriela Nazario Fonseca</sub>](https://github.com/GabrielaNF) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
